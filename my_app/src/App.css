@@ -1,0 +1,22 @@
+.app {
+  color: brown;
+  font-size: 2rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 900;
+}
+
+.link {
+  color: gray;
+  text-decoration: none;
+  background-color: rgb(135, 206, 235);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.link:hover {
+  background-color:  rgb(27, 170, 199);
+  transform: scale(1.05);
+  
+}
